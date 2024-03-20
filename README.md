@@ -6,6 +6,10 @@
 
 사진을 가우시안 블러(GaussianBlur)와 양방향 필터를 사용하여 카툰 느낌으로 변환시켜주는 기능을 구현하고자 한다.
 
+## **Developer**
+* 임민규(Lim Mingyu)
+
+
 ## **Set up & Prerequisites**
 
 * Python >= 3.9
